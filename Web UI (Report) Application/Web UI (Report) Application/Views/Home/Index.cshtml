@@ -1,0 +1,23 @@
+﻿@model List<Web_UI__Report__Application.Models.Bill>
+
+<table class="table table-hover">
+    <tr>
+        <th>Id</th>
+        <th>CreditCardNumber</th>
+        <th>CreditCardType</th>
+        <th>Amount</th>
+        <th>TransactionDate</th>
+        <th>TransactionId</th>
+    </tr>
+    @foreach(var d in Model)
+    {
+        <tr>
+            <th>@d.Id</th>
+            <th>@d.CreditCardNumber</th>
+            <th>@d.CreditCardType</th>
+            <th>@d.TransactionAmount</th>
+            <th>@d.TransactionDate</th>
+            <th>@d.TransactionId</th>
+        </tr>
+    }
+</table>

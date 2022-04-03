@@ -1,0 +1,35 @@
+$ docker run --name sqldata -e MYSQL_ROOT_PASSWORD=root -d -p 3306:3306 mysql:8
+$ docker ps
+$ docker exec -it 3a7973cb0e0b mysql -uroot -proot
+
+mysql> show databases;
+
+mysql> create database TransactionDB;
+
+mysql> use TransactionDB;
+
+mysql> create table Transaction (Id int primary key auto_increment, CreditCardNumber varchar(100), CreditCardType varchar(100), Amount float, TransactionDate date, TransactionId varchar(100));
+
+mysql> insert into Transaction(CreditCardNumber, CreditCardType, Amount, TransactionDate, TransactionId) values(4444666644446666, "Visa", 4600, "2020-06-04", "X008");
+
+mysql> select * from Transaction;
+
+mysql> create database BillDB;
+
+mysql> use BillDB;
+
+mysql> create table Bill(Id int primary key auto_increment, CreditCardNumber varchar(100), CreditCardType varchar(100), Amount float, TransactionDate date, TransactionId varchar(100));
+
+mysql> insert into Bill(CreditCardNumber, CreditCardType, Amount, TransactionDate, TransactionId) values(4444666646446646, "Rupay", 6400, "2020-04-06", "X004");
+
+mysql> select * from Bill;
+
+mysql> exit
+
+$ docker run -d --hostname rabbit --name rabbit -p 15672:15672 -p 5672:5672 rabbitmq:3-management
+$ docker ps
+
+1) Run the IIS Express of Transaction Application
+2) Run the Batch Application. RabbitMQ Url: http://localhost:15672
+3) Run the Bill Generator
+4) Run the IIS Express of Web (UI) Report Application

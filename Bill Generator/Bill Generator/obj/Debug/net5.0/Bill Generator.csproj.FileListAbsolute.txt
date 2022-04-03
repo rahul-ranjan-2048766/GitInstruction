@@ -1,0 +1,19 @@
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\Bill Generator.exe
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\Bill Generator.deps.json
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\Bill Generator.runtimeconfig.json
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\Bill Generator.runtimeconfig.dev.json
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\Bill Generator.dll
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\ref\Bill Generator.dll
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\Bill Generator.pdb
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.AssemblyInfoInputs.cache
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.AssemblyInfo.cs
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.csproj.CoreCompileInputs.cache
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.csproj.CopyComplete
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.dll
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\ref\Bill Generator.dll
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.pdb
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.genruntimeconfig.cache
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\obj\Debug\net5.0\Bill Generator.csproj.AssemblyReference.cache
+C:\Users\2048766\source\repos\UseCase\Bill Generator\Bill Generator\bin\Debug\net5.0\MySqlConnector.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "InFcaLiqVOKbWhhA9ubGPbKH+5HemaoPALiNVjW78oQRVRk/orndC2Vj3LneVakaDXJC+D6MpqIFWFrpWXet7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2048766\\source\\repos\\UseCase\\Bill Generator\\Bill Generator\\Bill Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2048766\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512",
+    "C:\\Users\\2048766\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\2048766\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\2048766\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

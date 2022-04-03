@@ -1,0 +1,21 @@
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\Batch Application.exe
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\Batch Application.deps.json
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\Batch Application.runtimeconfig.json
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\Batch Application.runtimeconfig.dev.json
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\Batch Application.dll
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\ref\Batch Application.dll
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\Batch Application.pdb
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.csproj.AssemblyReference.cache
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.AssemblyInfoInputs.cache
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.AssemblyInfo.cs
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.csproj.CoreCompileInputs.cache
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.csproj.CopyComplete
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.dll
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\ref\Batch Application.dll
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.pdb
+C:\Users\2048766\source\repos\UseCase\Batch Application\Batch Application\obj\Debug\net5.0\Batch Application.genruntimeconfig.cache
